@@ -162,10 +162,10 @@ export default {
   }),
   mounted() {
     Promise.all([
-      window.fetch('https://api.github.com/users/sutanlab')
+      window.fetch('https://api.github.com/users/enalfarid')
         .then(res => res.json())
         .then(res => res),
-      window.fetch('https://github-contributions-api.now.sh/v1/sutanlab')
+      window.fetch('https://github-contributions-api.now.sh/v1/enalfarid')
         .then(res => res.json())
         .then(({ years }) => years.reduce((acc, cur) => acc + cur.total, 0))
     ]).then(result => {
@@ -179,7 +179,7 @@ export default {
     title: `${process.env.AUTHOR}`,
     meta: metaGenerator('portfolio', {
       title: 'Personal Homepage',
-      description: `A Man who turns a cup of coffee into beautiful codes. - ${process.env.AUTHOR}`,
+      description: `A Product Manager who love coffee and coding. - ${process.env.AUTHOR}`,
       keywords: 'homepage, portfolio',
       image: '/icon.png',
       url: '/'

@@ -19,10 +19,7 @@
                 <client-only>
                   <md-quote-icon w="14px" h="14px" />
                 </client-only>
-                At first, i'll be thanking to
-                <a href="https://108kb.io/blog/now/">Fariz Rizaldy</a>,
-                <a href="https://afrijaldzuhri.wordpress.com/now/">Afrijal Dzuhri</a> and
-                <a href="https://www.wahudamon.com/pages/now">Afwa Bagas Wahuda</a>.
+                At first, i'll be thanking to of my developer team
                 &nbsp;Because all of them, i was inspired to create this page for describing about <b><i>what i'm doing right now</i></b>.
                 &nbsp;So, maybe you don't need to ask me frequently about that.
               </p>
@@ -34,7 +31,7 @@
                 Careers
               </h2>
               <p>
-                <b>Working as a Frontend Engineer at <i>Orami Indonesia</i>.</b>
+                <b>Working as a CTO at <i>Haloatta</i>.</b>
               </p>
 
               <h2 class="mt-5">
@@ -53,7 +50,7 @@
                 <li>React, Vue or other JavaScript framework for frontend stuff.</li>
                 <li>REST or GraphQL for API usage.</li>
                 <li>Node with Express for backend services.</li>
-                <li>Sometimes using PHP with Laravel or Codeigniter as backend services.</li>
+                <li>Sometimes using PHP, Golang, Ruby and Rails with Laravel or Codeigniter as backend services.</li>
               </ul>
 
               <h2 class="mt-5">
@@ -62,14 +59,14 @@
               <ul>
                 <li>OS: Arch-based Linux</li>
                 <li>Code Editor: Visual Studio Code</li>
-                <li>Database GUI: DBEaver, PhpMyAdmin and Robo 3T</li>
+                <li>Database GUI: Navicat, PhpMyAdmin and Robo 3T</li>
                 <li>Browsers: Google Chrome and Firefox</li>
                 <li>Others: GIT Kraken, Spotify, XDMan & Advanced REST Client</li>
               </ul>
 
               <p class="mt-5">
-                <i>Last updated at: December 5, 2019 from Tebet, South Jakarta. Indonesia</i>.
-                &nbsp;<a href="https://github.com/sutanlab/sutanlab.id/commits/master/pages/now.vue">History</a>
+                <i>Last updated at: December 5, 2019 from Makassar. Indonesia</i>.
+                &nbsp;<a href="https://enalfarid.digital">History</a>
               </p>
             </div>
           </div>
