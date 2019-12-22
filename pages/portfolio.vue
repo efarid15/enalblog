@@ -112,7 +112,7 @@ export default {
     title: `Portfolio | ${process.env.AUTHOR}`,
     meta: metaGenerator('portfolio', {
       title: 'Portfolio',
-      description: 'Some stuff made by Sutan Nasution.',
+      description: 'Some stuff made by Enal Farid.',
       keywords: 'portfolio, projects, experiments, stuff, technology, programming',
       image: '/icon.png',
       url: '/portfolio'
