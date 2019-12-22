@@ -1,8 +1,8 @@
 {
-  "name": "sutanlab",
+  "name": "enalblog",
   "version": "1.0.0",
-  "description": "A journal about Sutan Nasution",
-  "author": "Sutan Nasution.",
+  "description": "Litle Story About Enal Farid",
+  "author": "Enal Farid.",
   "private": true,
   "scripts": {
     "start": "node generate.js && nuxt",
