@@ -13,7 +13,9 @@
     "precommit": "npm run lint",
     "postinstall": "[ -e .env ] || cp .env.example .env"
   },
-  "dependencies": {},
+  "dependencies": {
+    "serialize-javascript": "^2.1.2"
+  },
   "devDependencies": {
     "@nuxtjs/dotenv": "1.4.1",
     "@nuxtjs/eslint-config": "2.0.0",
