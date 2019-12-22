@@ -4,7 +4,7 @@
     "category": "Mandiri Hackathon 2019",
     "description": "Mandiri Mobile Banking for young and child can make banking account at Bank Mandiri.",
     "github": "https://github.com/enalfarid/mandiriwtf",
-    "image": "/media/portfolio/mechat.png",
+    "image": "/media/project/mandiri-hackathon.png",
     "stacks": ["javas", "android", "firebase", "one signal"]
   },
   {
@@ -13,7 +13,7 @@
     "description": "Online Umrah Travel Platform who will support umrah travel in indonesia",
     "github": "https://github.com/renalfarid/haloattav2",
     "website": "https://beta.haloatta.com",
-    "image": "/media/portfolio/pos-web.png",
+    "image": "/media/project/haloatta.png",
     "stacks": ["javascript", "node", "nuxtjs", "react", "mysql"]
   },
   {
@@ -22,7 +22,7 @@
     "description": "Umaroh is online umrah travel for haloatta sales partner with benefit and sales bonus.",
     "github": null,
     "website": "https://www.umaroh.com",
-    "image": "/media/portfolio/expus.png",
+    "image": "/media/project/umaroh.png",
     "stacks": ["android", "laravel", "express", "mysql", "vue"]
   },
   {
@@ -31,7 +31,7 @@
     "description": "Umaroh Vendor is application for haloatta supplier can sell their product to haloatta customer and partner",
     "github": "https://github.com/renalfarid/vendor-v2",
     "website": "https://betavendor.haloatta.com",
-    "image": "/media/portfolio/simple-webstorage.png",
+    "image": "/media/project/vendor.png",
     "stacks": ["javascript", "nuxtjs"]
   },
   {
