@@ -78,7 +78,8 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Poppins:300,400,500,700|Courgette' },
+      { rel: 'stylesheet',  href: 'https://fonts.googleapis.com/css?family=Montserrat&display=swap' },
+
       { rel: 'stylesheet', href: '/assets/css/argon.min.css' }
     ],
     noscript: [

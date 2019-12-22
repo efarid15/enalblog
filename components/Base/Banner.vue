@@ -1,5 +1,5 @@
 <template>
-  <div id="banner" :style="`height: ${height}; background-color: #5E72E4`">
+  <div id="banner" :style="`height: ${height}; background-color: #66a3ff`">
     <figure :style="`background-color: rgba(0, 0, 0, ${overlay})`">
       <div style="width: 100%" class="d-flex align-items-center justify-content-center px-3 mx-auto">
         <slot />

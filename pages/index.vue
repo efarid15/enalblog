@@ -6,7 +6,7 @@
           <b>Enal Farid</b>
         </h1>
         <h5 class="text-white text-smooth text-shadow">
-          Hi, I am Product Manager and Full Stack Developer .”
+          Hi, I am Enal Farid a Product Manager and Full Stack Developer.”
         </h5>
       </div>
     </Banner>

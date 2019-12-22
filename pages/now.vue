@@ -19,7 +19,7 @@
                 <client-only>
                   <md-quote-icon w="14px" h="14px" />
                 </client-only>
-                At first, i'll be thanking to of my developer team
+                At first, i'll be thanking to of my awesome Developer Team
                 &nbsp;Because all of them, i was inspired to create this page for describing about <b><i>what i'm doing right now</i></b>.
                 &nbsp;So, maybe you don't need to ask me frequently about that.
               </p>
@@ -31,7 +31,7 @@
                 Careers
               </h2>
               <p>
-                <b>Working as a CTO at <i>Haloatta</i>.</b>
+                <b>Working as a Founder <i>Lintas Inovasi Digital</i> is a group of Digital Talent in Makassar, as a CTO at <i>Haloatta</i> Umrah Online Travel.</b>
               </p>
 
               <h2 class="mt-5">
@@ -40,32 +40,35 @@
               <ul>
                 <li>Learning and research some technology stuff from the internet.</li>
                 <li>Coding, reading and blogging for fun.</li>
-                <li>Making quality time for my family and girlfriend every weekend. (Umm, from phone maybe ?).</li>
+                <li>Enjoy my free time with travelling and some coffee</li>
               </ul>
 
               <h2 class="mt-5">
                 My Stacks
               </h2>
               <ul>
+                <li>PHP, Golang, Ruby and Rails with Laravel or Codeigniter as backend services.</li>
+                <li>Node with Express for backend services.</li>
                 <li>React, Vue or other JavaScript framework for frontend stuff.</li>
                 <li>REST or GraphQL for API usage.</li>
-                <li>Node with Express for backend services.</li>
-                <li>Sometimes using PHP, Golang, Ruby and Rails with Laravel or Codeigniter as backend services.</li>
+                <li>Cloud AWS Platform, Google Cloud, Alicloud</li>
               </ul>
 
               <h2 class="mt-5">
-                Software that i use
+                My weapon as a Product Manager & Full Stack Developer
               </h2>
               <ul>
-                <li>OS: Arch-based Linux</li>
+                <li>Product Management Tools: AHA, Atlasian, Trello</li>
+                <li>OS: Arch-based Linux, Mac OS</li>
+                <li>UI/UX : Sketch, Balsamiq</li>
                 <li>Code Editor: Visual Studio Code</li>
                 <li>Database GUI: Navicat, PhpMyAdmin and Robo 3T</li>
-                <li>Browsers: Google Chrome and Firefox</li>
+                <li>Browsers: Google Chrome, Safari and Firefox</li>
                 <li>Others: GIT Kraken, Spotify, XDMan & Advanced REST Client</li>
               </ul>
 
               <p class="mt-5">
-                <i>Last updated at: December 5, 2019 from Makassar. Indonesia</i>.
+                <i>Last updated at: December 22, 2019 from Makassar. Indonesia</i>.
                 &nbsp;<a href="https://enalfarid.digital">History</a>
               </p>
             </div>
