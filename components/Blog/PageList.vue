@@ -171,7 +171,7 @@ export default {
     title: `Blog | ${process.env.AUTHOR}`,
     meta: metaGenerator('blog', {
       title: 'Blog',
-      description: 'A Journal about Sutan Nasution.',
+      description: 'A Journal about Enal Farid.',
       keywords: 'blogs, posts, articles',
       image: '/icon.png',
       url: '/blog'
