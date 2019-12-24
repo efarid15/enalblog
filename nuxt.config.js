@@ -48,8 +48,8 @@ export default {
     AUTHOR: settings.author,
     PRODUCTION_URL: settings.productionUrl,
     BLOG_PAGINATION_LIMIT: settings.blogPaginationLimit,
-    //ONESIGNAL_APP_ID: process.env.ONESIGNAL_APP_ID,
-    //GOOGLE_ADSENSE_ID: process.env.GOOGLE_ADSENSE_ID,
+    ONESIGNAL_APP_ID: process.env.ONESIGNAL_APP_ID,
+    GOOGLE_ADSENSE_ID: process.env.GOOGLE_ADSENSE_ID,
     GOOGLE_ANALYTICS_ID: process.env.GOOGLE_ANALYTICS_ID
   },
 
