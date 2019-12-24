@@ -42,7 +42,7 @@ export default {
     height: {
       type: String,
       description: 'Min: 450px',
-      default: '100vh'
+      default: '480px'
     },
     overlay: {
       type: Number,
