@@ -18,7 +18,7 @@
               <div class="col-lg-3 order-lg-2">
                 <div class="card-profile-image">
                   <a href="#me" aria-hidden="true">
-                    <img v-lazy="'/assets/img/collections/enal-mandiriwtf.png'" class="rounded-circle" alt="Sutan Nasution">
+                    <img v-lazy="'/assets/img/collections/enal-mandiriwtf.png'" class="rounded-circle" alt="Enal Farid">
                   </a>
                 </div>
               </div>
