@@ -27,7 +27,7 @@ export default {
   props: {
     shortname: {
       type: String,
-      default: 'sutanlab'
+      default: 'https-www-enalfarid-digital'
     },
     title: {
       type: String,
@@ -39,7 +39,7 @@ export default {
     },
     identifier: {
       type: String,
-      default: `sutanlab-blog-${new Date().getTime()}`
+      default: `Myblog-${new Date().getTime()}`
     }
   }
 }

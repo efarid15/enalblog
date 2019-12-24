@@ -148,8 +148,8 @@ export default {
 
   pwa: {
     manifest: {
-      name: 'Enal Farid',
-      short_name: 'enalfarid'
+      name: 'Myblog',
+      short_name: 'https-www-enalfarid-digital'
     }
   },
 
