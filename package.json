@@ -14,7 +14,7 @@
     "postinstall": "[ -e .env ] || cp .env.example .env"
   },
   "dependencies": {
-    "serialize-javascript": "^2.1.2"
+    "serialize-javascript": "^3.1.0"
   },
   "devDependencies": {
     "@nuxtjs/dotenv": "1.4.1",
